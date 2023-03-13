@@ -1,0 +1,24 @@
+{
+    "name": "kawschool/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hugo trigoso paredes",
+            "email": "htrigoso@kawschool.com"
+        },
+        {
+            "name": "elvis pinares galvan",
+            "email": "epinares@kawschool.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+}
